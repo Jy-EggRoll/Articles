@@ -1,5 +1,15 @@
 # 技术指南：Windows 电脑使用 Android VPN 热点（Tech Guide: Android VPN Hot Spots for Windows PCs）
 
+---
+
+## 2024年9月7日更新
+
+本文有诸多疏漏之处，因为我也处于学习状态。本文的不足包括但不限于：描述不具体、原理解释不清楚、端口自定义的问题等。如果您有能力，可以观看 YouTube 上“不良林”的系列视频，讲得很清晰。
+
+This article has many flaws, because I'm still in the learning stage. The shortcomings of this article include but are not limited to: insufficient description, unclear explanations, and the problem of customizing ports. If you have the ability, you can watch the series of "不良林" videos on YouTube, which are clear.
+
+---
+
 ## 说明（Note）
 
 本文的主要受众是中国人，我懒于去精校英文部分，所以我只翻译我确定的部分。
@@ -67,3 +77,7 @@ Restart the Clash Meta for Android node.
 至此，如果手机的节点可用，那么电脑也就可以访问网页了。
 
 Now, if the phone node is available, the computer can access the web.
+
+---
+
+2024年8月29日
